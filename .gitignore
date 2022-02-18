@@ -1,0 +1,7 @@
+.env
+*.pyc
+*.swp
+__pycache__
+local_config.py
+multisol-raffle
+node_modules
